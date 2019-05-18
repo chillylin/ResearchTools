@@ -5,9 +5,9 @@
 # example getisin('apple')
 
 import requests
-from lxml import html
+
 import re
-import pandas as pd
+
 
 def getisin(companyname):
     
