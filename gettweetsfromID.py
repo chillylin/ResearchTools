@@ -51,6 +51,10 @@ def dataframiseTweet(tweet):
 
     tempdict['mentioneeId'] = tweet['in_reply_to_user_id']
     tempdict['mentioneeScreenname'] = tweet['in_reply_to_screen_name']
+    
+    tempdict['RT'] = tweet['retweet_count']
+    tempdict['Like'] = tweet['favorite_count']
+
 
     if len(tweet['entities']['user_mentions'])>0:
 
