@@ -1,0 +1,14 @@
+﻿Step,Type,Subtype,Casesensitivity,Keywords
+1,1,,0,will
+1,2,,0,aim
+2,Operation,performance,0,performance
+2,Operation,performance,1,EBT
+2,Operation,operation,0,operations
+2,Operation,invest,0,invest
+2,Operation,invest,1,PP&E
+2,Operation,HR,0,compensation
+2,Operation,HR,1,CEO
+2,Operation,Macro,0,economic
+2,Finance,,0,finance
+2,Accounting,,0,accounting
+2,Accounting,,1,GAAP
