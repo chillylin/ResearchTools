@@ -13,11 +13,12 @@
 - Perception building
     - Borrowing authorities
         - Skills supported by a body of theory or learning
-            - building libraries, 
-            - providing awards to scholars, 
-            - funding professional and scholarly journals. 
+            - build libraries and/or other "tangible icon for knowledge",(also can be the HQ of the professional body 
+            - provide awards to scholars, 
+            - funding professional and scholarly journals and conferences
+            - cooperation with universities
         - Recruiting people who are already high-rank in society
-            - Bachelor degree  (A-level)
+            - High education requirement
             - Gentry
             - Related parties to powerful people
         - Licensed Community Sanction, by proving the occupation is "Indispensable Public Service" or "Applied to Affairs of others"
@@ -28,6 +29,13 @@
     - A professional body 
     - Career supported by colleague group
     - Definite Compensation
+    - Establish enforcement for code of conduct (e.g., A Standing committee hearing compliants)
+        - Deter/Punish/Expel members conducting actions which damage the "brand" of the profession
     - Socialisation: 
         - Build recruits' loyalty to colleagues
-        - Build Professional identity    
+        - Build Professional identity  
+    - Prerequisite for members
+        - Education 
+        - Experience
+        - Examination
+        - Practice insurance for "practicing members" ( Student can join as student-member but cannot present themselves as practising member)
