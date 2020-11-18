@@ -21,12 +21,13 @@
             - Gentry
             - Related parties to powerful people
         - Licensed Community Sanction, by proving the occupation is "Indispensable Public Service" or "Applied to Affairs of others"
-    - Promotion
+    - Marketing
         - Rebranding: inventing new names for the profession
         - Advertisement
 - Organised 
     - A professional body 
-    - Loyalty to colleagues
     - Career supported by colleague group
-    - Professional identity
     - Definite Compensation
+    - Socialisation: 
+        - Build recruits' loyalty to colleagues
+        - Build Professional identity    
