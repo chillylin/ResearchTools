@@ -1,0 +1,32 @@
+# Strategies for successful professionalisation ("Successfully managed the perception of the public",)
+- Specialized technique
+    - large enough to form a full-time occupation
+    - an educationally communicable technique
+    - include tacit knowledge
+    - Transferable( or generalisable) skills
+    - Self-limited scope of practice
+- Formal Code of Conduct/Ethics
+    - Altruistic
+    - Definite Professional-Client Relationship
+    - Fiduciary Client Relationship
+    - Best Impartial Service Given
+- Perception building
+    - Borrowing authorities
+        - Skills supported by a body of theory or learning
+            - building libraries, 
+            - providing awards to scholars, 
+            - funding professional and scholarly journals. 
+        - Recruiting people who are already high-rank in society
+            - Bachelor degree  (A-level)
+            - Gentry
+            - Related parties to powerful people
+        - Licensed Community Sanction, by proving the occupation is "Indispensable Public Service" or "Applied to Affairs of others"
+    - Promotion
+        - Rebranding: inventing new names for the profession
+        - Advertisement
+- Organised 
+    - A professional body 
+    - Loyalty to colleagues
+    - Career supported by colleague group
+    - Professional identity
+    - Definite Compensation
